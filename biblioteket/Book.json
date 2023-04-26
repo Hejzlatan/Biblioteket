@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "1",
+    "Author": "F. Scott Fitzgerald",
+    "Price": 10.99,
+    "Subject": "The Great Gatsby",
+    "IsAvailable": true
+  },
+  {
+    "Id": "2",
+    "Author": "Harper Lee",
+    "Price": 12.99,
+    "Subject": "To Kill a Mockingbird",
+    "IsAvailable": true
+  },
+  {
+    "Id": "3",
+    "Author": "George Orwell",
+    "Price": 8.99,
+    "Subject": "1984",
+    "IsAvailable": true
+  },
+  {
+    "Id": "4",
+    "Author": "Jane Austen",
+    "Price": 7.99,
+    "Subject": "Pride and Prejudice",
+    "IsAvailable": true
+  },
+  {
+    "Id": "5",
+    "Author": "J.D. Salinger",
+    "Price": 9.99,
+    "Subject": "The Catcher in the Rye",
+    "IsAvailable": true
+  }
+]
